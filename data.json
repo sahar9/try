@@ -1,32 +1,32 @@
  [
     {
         "id": 1,
-        "nom": "atest",
-        "arabe": "test1",
-        "fr": "test2",
-        "anglais": "test3"
+        "nom": "Авиакомпания ж",
+        "arabe": "خُطُوطٌ جَوِّيَةٌ / شَرِكَةُ طَيَرَانٍ",
+        "fr": "Compagnie aérienne",
+        "anglais": "Airlines/Airline company"
     },
    
 {
     "id": 2,
-    "nom": "Авиакомпания ж",
-    "arabe": "شركات الطيران",
-    "fr": "Compagnie aérienne",
-    "anglais": "Compagnie aérienne"
+    "nom": "туристическое",
+    "arabe": "وِكَالَةُ أسْفَارٍ",
+    "fr": "agence de voyage ",
+    "anglais": "travel agency"
 },
     {
         "id": 3,
-        "nom": "test3",
-        "arabe": "test13",
-        "fr": "test23",
-        "anglais": "test33"
+        "nom": "Аглабиды мн",
+        "arabe": "أَغَالِبَةٌ",
+        "fr": "Aghlabides",
+        "anglais": "Aghlabids"
     },
     {
         "id": 34,
-        "nom": "test3",
-        "arabe": "test13",
-        "fr": "test23",
-        "anglais": "test33"
+        "nom": "Агора ж",
+        "arabe": "أَغُورَا/سَاحَةٌ دَائِرِيَّة رُومَانِيّةٌ ",
+"fr": "Agora",
+        "anglais": "Agora"
     },
     {
         "id": 43,
