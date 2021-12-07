@@ -1,67 +1,173 @@
- [
-    {
-        "id": 1,
-        "nom": "Авиакомпания ж",
-        "arabe": "خُطُوطٌ جَوِّيَةٌ / شَرِكَةُ طَيَرَانٍ",
-        "fr": "Compagnie aérienne",
-        "anglais": "Airlines/Airline company"
-    },
-   
-{
+[
+  {
+    "id": 0,
+    "nom": "Авиакомпания ж",
+    "arabe": "خُطُوطٌ جَوِّيَةٌ / شَرِكَةُ طَيَرَانٍ",
+    "fr": "Compagnie aérienne",
+    "anglais": "Airlines/Airline company"
+  },
+
+  {
+    "id": 1,
+    "nom": "Агентство с",
+    "arabe": "وِكَالَةُ ",
+    "fr": "Agence ",
+    "anglais": "Agency"
+  },
+  {
     "id": 2,
-    "nom": "туристическое",
+    "nom": "~, mурисmическое ",
     "arabe": "وِكَالَةُ أسْفَارٍ",
     "fr": "agence de voyage ",
     "anglais": "travel agency"
-},
-    {
-        "id": 3,
-        "nom": "Аглабиды мн",
-        "arabe": "أَغَالِبَةٌ",
-        "fr": "Aghlabides",
-        "anglais": "Aghlabids"
-    },
-    {
-        "id": 34,
-        "nom": "Агора ж",
-        "arabe": "أَغُورَا/سَاحَةٌ دَائِرِيَّة رُومَانِيّةٌ ",
-"fr": "Agora",
-        "anglais": "Agora"
-    },
-    {
-        "id": 43,
-        "nom": "russe",
-        "arabe": "test13",
-        "fr": "test23",
-        "anglais": "test33"
-    },
-    {
-        "id": 13,
-        "nom": "test3",
-        "arabe": "test13",
-        "fr": "test23",
-        "anglais": "test33",
-    },
-    {
-        "id": 37,
-        "nom": "test3",
-        "arabe": "test13",
-        "fr": "test23",
-        "anglais": "test33"
-    },
+  },
+  {
+    "id": 3,
+    "nom": "Аглабиды мн",
+    "arabe": "أَغَالِبَةٌ",
+    "fr": "Aghlabides",
+    "anglais": "Aghlabids"
+  },
+  {
+    "id": 4,
+    "nom": "Агора ж",
+    "arabe": "أَغُورَا/سَاحَةٌ دَائِرِيَّة رُومَانِيّةٌ ",
+    "fr": "Agora",
+    "anglais": "Agora"
+  },
+  {
+    "id": 5,
+    "nom": "Агротуризм м : (деревенский туризм / сельский туризм )",
+    "arabe": "سِيَاحَةٌ زِرَاعِيَّةٌ/ سِيَاحَةٌ فِلَاحِيَّةٌ",
+    "fr": "Agrotourisme/Agritourisme",
+    "anglais": "Agrotourism/Agritourism "
+  },
+  {
+    "id": 6,
+    "nom": "Администрация ж ",
+    "arabe": "إِدَارَةٌ",
+    "fr": "Administration",
+    "anglais": "Administration/Management  "
+  },
+  {
+    "id": 7,
+    "nom": "~ отеля",
+    "arabe": "إِدَارَةُ الفُنْدُقِ",
+    "fr": "gestion hôtelière",
+    "anglais": "hotel management"
+  },
 
-    {
-        "id":63,
-        "nom": "test3",
-        "arabe": "test13",
-        "fr": "test23",
-        "anglais": "test33",
-    },
-    {
-        "id": 73,
-        "nom": "sahar",
-        "arabe": "test13",
-        "fr": "test23",
-        "anglais": "test33"
-    },
+  {
+    "id": 8,
+    "nom": "Акведук м",
+    "anglais": "Aqueduct ",
+    "fr": "Aqueduc ",
+    "arabe": "قَنْطَرَةٌ مَائِيَّةٌ / حَنَايَا"
+  },
+  {
+    "id": 9,
+    "nom": "Акрополь м",
+    "anglais": "Acropolis  ",
+    "fr": "Acropole ",
+    "arabe": "مَدِينَةٌ عَالِيَةٌ / حِصْنٌ "
+  },
+  {
+    "id": 10,
+    "nom": "Алтарь м ",
+    "anglais": "Altar ",
+    "fr": "Autel ",
+    "arabe": "مَذْبَحٌ"
+  },
+  {
+    "id": 11,
+    "nom": "Амулет м ",
+    "anglais": " Amulet",
+    "fr": "Amulette ",
+    "arabe": "تَمِيمَةٌ"
+  },
+  {
+    "id": 12,
+    "nom": "Амфитеатр м",
+    "anglais": " Amphitheater",
+    "fr": "Amphithéâtre ",
+    "arabe": "مدرجٌ"
+  },
+  {
+    "id": 13,
+    "nom": "Амфора ж ",
+    "anglais": " Amphora",
+    "fr": "Amphore ",
+    "arabe": "جَرَّةٌ ضَيِّقَةٌ / أُمْفُورَةٌ"
+  },
+  {
+    "id": 14,
+    "nom": "Аниматор м ",
+    "anglais": " Animator",
+    "fr": "Animateur ",
+    "arabe": "مُنَشِّطٌ"
+  },
+  {
+    "id": 15,
+    "nom": "Анкета ж ",
+    "anglais": " Questionnaire",
+    "fr": "Formulaire ",
+    "arabe": "إِسْتِبْيَانٌ"
+  },
+  {
+    "id": 16,
+    "nom": "~  для путешественника ",
+    "anglais": " traveler’s card",
+    "fr": "fiche de voyageur ",
+    "arabe": "بِطَاقَةُ النَّزِيلِ / إِسْتِبْيَانُ النَّزِيلِ"
+  },
+  {
+    "id": 17,
+    "nom": "Анимация ж",
+    "anglais": " Entertainment",
+    "fr": "Animation ",
+    "arabe": "تَنْشِيطٌ"
+  },
+  {
+    "id": 18,
+    "nom": "~, туристическая",
+    "anglais": " tourist entertainment",
+    "fr": "animation touristique  ",
+    "arabe": "تَنْشِيطٌ سِياحِيٌّ"
+  },
+  {
+    "id": 19,
+    "nom": "Аннулирование с ",
+    "anglais": " Annulment / Cancellation ",
+    "fr": "Annulation ",
+    "arabe": "إِلْغَاءٌ"
+  },
+  {
+    "id": 20,
+    "nom": "Апарт-отель м  ",
+    "anglais": " Apart hotel",
+    "fr": "Appart hôtel  ",
+    "arabe": "شُقَّةٌ فُنْدُقِيَّةٌ"
+  },
+  {
+    "id": 21,
+    "nom": "Арена ж ",
+    "anglais": " Arena",
+    "fr": "Arène ",
+    "arabe": "حَلَبَةٌ"
+  },
+  {
+    "id": 22,
+    "nom": "Аренда ж  (прокат)",
+    "anglais": " Leasing / Renting",
+    "fr": "Location ",
+    "arabe": " تَأْجِيرٌ / كِرَاءٌ"
+  },
+  {
+    "id": 23,
+    "nom": "~ автомобилей ",
+    "anglais": " cars rental",
+    "fr": " location des voitures ",
+    "arabe": "تَأْجِيرُ السَيَّارَاتِ "
+  }
+
 ]
