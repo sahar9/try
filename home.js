@@ -39,7 +39,11 @@ const home = ({ }) => {
             >
                 <View style={styles.centeredView}>
                     <View style={styles.modalView}>
-                        <Text style={styles.modalText}>{nomRusse}</Text>
+                        <Text style={{ fontWeight: "bold", marginLeft: 20, fontSize: 22 }}>
+                            <Image style={styles.img} source={LogoRusse} />
+                            {nomRusse}
+                            {"\n"}
+                        </Text>       
                         <Text style={styles.modalText}>{nomAr}</Text>
                         <Text style={styles.modalText}>{nomFr}</Text>
                         <Text style={styles.modalText}>{nomAng}</Text>
@@ -60,10 +64,10 @@ const home = ({ }) => {
             <ScrollView style={styles.scrollView}>
                 <DataTable>
                     <DataTable.Header style={{ backgroundColor: 'pink' }}>
-                        <DataTable.Title>Russe</DataTable.Title>
-                        <DataTable.Title>Arabe</DataTable.Title>
-                        <DataTable.Title>Francais</DataTable.Title>
-                        <DataTable.Title>Anglais</DataTable.Title>
+                        <DataTable.Title style={{ fontWeight: "bold" }}>Russe</DataTable.Title>
+                        <DataTable.Title style={{ fontWeight: "bold" }}>Arabe</DataTable.Title>
+                        <DataTable.Title style={{ fontWeight: "bold" }}>Francais</DataTable.Title>
+                        <DataTable.Title style={{ fontWeight: "bold" }}>Anglais</DataTable.Title>
                     </DataTable.Header>
 
                     {Data.filter(val => {
@@ -121,12 +125,6 @@ const styles = StyleSheet.create({
         backgroundColor: "white",
         borderRadius: 20,
         padding: 35,
-        // alignItems: "center",
-        // shadowColor: "#000",
-        // shadowOffset: {
-        //     width: 0,
-        //     height: 2
-        // },
         shadowOpacity: 0.25,
         shadowRadius: 4,
         elevation: 5
@@ -142,14 +140,22 @@ const styles = StyleSheet.create({
     buttonClose: {
         // backgroundColor: "#2196F3",
     },
-    textStyle: {
-        color: "white",
+      textStyle: {
+        color: "black",
         fontWeight: "bold",
-        textAlign: "center"
+        textAlign: "center",
+        fontSize: 18
     },
     modalText: {
         marginBottom: 15,
-        textAlign: "center"
+        textAlign: "left",
+        fontSize: 18,
+
+    },
+    img: {
+        width: 30,
+        marginRight: 10,
+        height: 30
     }
 });
 export default home
