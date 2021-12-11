@@ -4,7 +4,8 @@
     "nom": "Авиакомпания ж",
     "arabe": "خُطُوطٌ جَوِّيَةٌ / شَرِكَةُ طَيَرَانٍ",
     "fr": "Compagnie aérienne",
-    "anglais": "Airlines/Airline company"
+    "anglais": "Airlines/Airline company",
+    "arrays": []
   },
 
   {
@@ -12,49 +13,54 @@
     "nom": "Агентство с",
     "arabe": "وِكَالَةُ ",
     "fr": "Agence ",
-    "anglais": "Agency"
-  },
-  {
-    "id": 2,
-    "nom": "~, mурисmическое ",
-    "arabe": "وِكَالَةُ أسْفَارٍ",
-    "fr": "agence de voyage ",
-    "anglais": "travel agency"
+    "anglais": "Agency",
+    "arrays": [
+      {
+        "nom": "~, mурисmическое ",
+        "arabe": "وِكَالَةُ أسْفَارٍ",
+        "fr": "agence de voyage ",
+        "anglais": "travel agency"
+      }
+    ]
   },
   {
     "id": 3,
     "nom": "Аглабиды мн",
     "arabe": "أَغَالِبَةٌ",
     "fr": "Aghlabides",
-    "anglais": "Aghlabids"
+    "anglais": "Aghlabids",
+    "arrays": []
   },
   {
     "id": 4,
     "nom": "Агора ж",
     "arabe": "أَغُورَا/سَاحَةٌ دَائِرِيَّة رُومَانِيّةٌ ",
     "fr": "Agora",
-    "anglais": "Agora"
+    "anglais": "Agora",
+    "arrays": []
   },
   {
     "id": 5,
     "nom": "Агротуризм м : (деревенский туризм / сельский туризм )",
     "arabe": "سِيَاحَةٌ زِرَاعِيَّةٌ/ سِيَاحَةٌ فِلَاحِيَّةٌ",
     "fr": "Agrotourisme/Agritourisme",
-    "anglais": "Agrotourism/Agritourism "
+    "anglais": "Agrotourism/Agritourism ",
+    "arrays": []
   },
   {
     "id": 6,
     "nom": "Администрация ж ",
     "arabe": "إِدَارَةٌ",
     "fr": "Administration",
-    "anglais": "Administration/Management  "
-  },
-  {
-    "id": 7,
-    "nom": "~ отеля",
-    "arabe": "إِدَارَةُ الفُنْدُقِ",
-    "fr": "gestion hôtelière",
-    "anglais": "hotel management"
+    "anglais": "Administration/Management  ",
+    "arrays": [
+      {
+        "nom": "~ отеля",
+        "arabe": "إِدَارَةُ الفُنْدُقِ",
+        "fr": "gestion hôtelière",
+        "anglais": "hotel management"
+      }
+    ]
   },
 
   {
@@ -62,112 +68,556 @@
     "nom": "Акведук м",
     "anglais": "Aqueduct ",
     "fr": "Aqueduc ",
-    "arabe": "قَنْطَرَةٌ مَائِيَّةٌ / حَنَايَا"
+    "arabe": "قَنْطَرَةٌ مَائِيَّةٌ / حَنَايَا",
+    "arrays": []
   },
   {
     "id": 9,
     "nom": "Акрополь м",
     "anglais": "Acropolis  ",
     "fr": "Acropole ",
-    "arabe": "مَدِينَةٌ عَالِيَةٌ / حِصْنٌ "
+    "arabe": "مَدِينَةٌ عَالِيَةٌ / حِصْنٌ ",
+    "arrays": []
   },
   {
     "id": 10,
     "nom": "Алтарь м ",
     "anglais": "Altar ",
     "fr": "Autel ",
-    "arabe": "مَذْبَحٌ"
+    "arabe": "مَذْبَحٌ",
+    "arrays": []
   },
   {
     "id": 11,
     "nom": "Амулет м ",
     "anglais": " Amulet",
     "fr": "Amulette ",
-    "arabe": "تَمِيمَةٌ"
+    "arabe": "تَمِيمَةٌ",
+    "arrays": []
   },
   {
     "id": 12,
     "nom": "Амфитеатр м",
     "anglais": " Amphitheater",
     "fr": "Amphithéâtre ",
-    "arabe": "مدرجٌ"
+    "arabe": "مدرجٌ",
+    "arrays": []
   },
   {
     "id": 13,
     "nom": "Амфора ж ",
     "anglais": " Amphora",
     "fr": "Amphore ",
-    "arabe": "جَرَّةٌ ضَيِّقَةٌ / أُمْفُورَةٌ"
+    "arabe": "جَرَّةٌ ضَيِّقَةٌ / أُمْفُورَةٌ",
+    "arrays": []
   },
   {
     "id": 14,
     "nom": "Аниматор м ",
     "anglais": " Animator",
     "fr": "Animateur ",
-    "arabe": "مُنَشِّطٌ"
+    "arabe": "مُنَشِّطٌ",
+    "arrays": []
   },
   {
     "id": 15,
     "nom": "Анкета ж ",
     "anglais": " Questionnaire",
     "fr": "Formulaire ",
-    "arabe": "إِسْتِبْيَانٌ"
+    "arabe": "إِسْتِبْيَانٌ",
+    "arrays": [
+      {
+        "nom": "~  для путешественника ",
+        "anglais": " traveler’s card",
+        "fr": "fiche de voyageur ",
+        "arabe": "بِطَاقَةُ النَّزِيلِ / إِسْتِبْيَانُ النَّزِيلِ"
+      }
+    ]
   },
-  {
-    "id": 16,
-    "nom": "~  для путешественника ",
-    "anglais": " traveler’s card",
-    "fr": "fiche de voyageur ",
-    "arabe": "بِطَاقَةُ النَّزِيلِ / إِسْتِبْيَانُ النَّزِيلِ"
-  },
+
   {
     "id": 17,
     "nom": "Анимация ж",
     "anglais": " Entertainment",
     "fr": "Animation ",
-    "arabe": "تَنْشِيطٌ"
+    "arabe": "تَنْشِيطٌ",
+    "arrays": [
+      {
+        "nom": "~, туристическая",
+        "anglais": " tourist entertainment",
+        "fr": "animation touristique  ",
+        "arabe": "تَنْشِيطٌ سِياحِيٌّ"
+      }
+    ]
   },
-  {
-    "id": 18,
-    "nom": "~, туристическая",
-    "anglais": " tourist entertainment",
-    "fr": "animation touristique  ",
-    "arabe": "تَنْشِيطٌ سِياحِيٌّ"
-  },
+
   {
     "id": 19,
     "nom": "Аннулирование с ",
     "anglais": " Annulment / Cancellation ",
     "fr": "Annulation ",
-    "arabe": "إِلْغَاءٌ"
+    "arabe": "إِلْغَاءٌ",
+    "arrays": []
   },
   {
     "id": 20,
     "nom": "Апарт-отель м  ",
     "anglais": " Apart hotel",
     "fr": "Appart hôtel  ",
-    "arabe": "شُقَّةٌ فُنْدُقِيَّةٌ"
+    "arabe": "شُقَّةٌ فُنْدُقِيَّةٌ",
+    "arrays": []
   },
   {
     "id": 21,
     "nom": "Арена ж ",
     "anglais": " Arena",
     "fr": "Arène ",
-    "arabe": "حَلَبَةٌ"
+    "arabe": "حَلَبَةٌ",
+    "arrays": []
   },
   {
     "id": 22,
     "nom": "Аренда ж  (прокат)",
     "anglais": " Leasing / Renting",
     "fr": "Location ",
-    "arabe": " تَأْجِيرٌ / كِرَاءٌ"
+    "arabe": " تَأْجِيرٌ / كِرَاءٌ",
+    "arrays": [
+      {
+        "nom": "~ автомобилей ",
+        "anglais": " cars rental",
+        "fr": " location des voitures ",
+        "arabe": "تَأْجِيرُ السَيَّارَاتِ "
+      },
+      {
+        "nom": "~ помещения",
+        "anglais": "leasing lodging / rental accommodation",
+        "fr": " location de logement ",
+        "arabe": "تَأْجِيرُ مسكن "
+      }
+    ]
   },
   {
-    "id": 23,
-    "nom": "~ автомобилей ",
-    "anglais": " cars rental",
-    "fr": " location des voitures ",
-    "arabe": "تَأْجِيرُ السَيَّارَاتِ "
-  }
+    "id": 25,
+    "nom": "Арка ж",
+    "anglais": " Arch",
+    "fr": "Arc ",
+    "arabe": "قوسٌ  ",
+    "arrays": [
+      {
+        "nom": "~, триумфальная:",
+        "anglais": "triumphal arch ",
+        "fr": " arc de triomphe ",
+        "arabe": "قَوْسُ النَصْرِ "
+      }
+    ]
+  },
 
+  {
+    "id": 27,
+    "nom": "Аркада ж ",
+    "anglais": " Arcade",
+    "fr": " Arcade ",
+    "arabe": "رواقٌ مُعَمّدٌ ",
+    "arrays": []
+  },
+  {
+    "id": 28,
+    "nom": "Ароматерапия ж",
+    "anglais": "Aromatherapy",
+    "fr": " Aromathérapie ",
+    "arabe": "عِلَاَجُ الْعُطُورِ ",
+    "arrays": []
+  },
+  {
+    "id": 29,
+    "nom": "Археология ж: -  - ",
+    "anglais": " Archeology",
+    "fr": "Archéologie ",
+    "arabe": "عِلْمُ الأثار ",
+    "arrays": []
+  },
+  {
+    "id": 30,
+    "nom": "Архипелаг м ",
+    "anglais": " Archipelago",
+    "fr": " Archipel ",
+    "arabe": "أَرْخَبِيلٌ ",
+    "arrays": []
+  },
+  {
+    "id": 31,
+    "nom": "Архитектура ж ",
+    "anglais": " Architecture",
+    "fr": " Architecture ",
+    "arabe": "هَنْدَسَةَ مِعْمَارِيَّةَ ",
+    "arrays": []
+  },
+  {
+    "id": 32,
+    "nom": "Аэропорт м",
+    "anglais": "Airport",
+    "fr": " Aéroport ",
+    "arabe": "مَطَارٌ ",
+    "arrays": []
+  },
+  {
+    "id": 33,
+    "nom": "Аюрведа ж",
+    "anglais": " Ayurveda",
+    "fr": " Ayurvéda ",
+    "arabe": "عِلْمَ الْحَيَاةِ / ايورفيدا ",
+    "arrays": []
+  },
+  {
+    "id": 34,
+    "nom": "Багаж м",
+    "anglais": "Baggage",
+    "fr": " Bagage ",
+    "arabe": "أَمْتِعَةٌ ",
+    "arrays": [
+      {
+        "nom": "~,ручной ",
+        "anglais": "hand baggage",
+        "fr": " bagage à main ",
+        "arabe": "أَمْتِعَةٌ يَدَوِيَّةٌ "
+      }
+    ]
+  },
+
+  {
+    "id": 36,
+    "nom": "Базар (сук ) м ",
+    "anglais": "Bazaar",
+    "fr": "Bazar",
+    "arabe": "سُوقٌ ",
+    "arrays": []
+  },
+  {
+    "id": 37,
+    "nom": "Базилика ж ",
+    "anglais": "Basilica",
+    "fr": " Basilique",
+    "arabe": "كَاتِدْرَائِيَّةُ ",
+    "arrays": []
+  },
+  {
+    "id": 38,
+    "nom": "Балкон м",
+    "anglais": "Balcony",
+    "fr": " Balcon ",
+    "arabe": "شَرَفَةٌ ",
+    "arrays": []
+  },
+  {
+    "id": 39,
+    "nom": "Бальнеотерапия ж",
+    "anglais": " Balneatherapy",
+    "fr": " Balnéothérapie ",
+    "arabe": "عِلَاجٌ بِإسْتِعْمَالِ المِيَاه المَعْدَنِيَّةِ/ عِلَاَجٌ بِالْاِسْتِحْمَامِ ",
+    "arrays": []
+  },
+  {
+    "id": 40,
+    "nom": "Бани мн ",
+    "anglais": " Baths",
+    "fr": " Thermes ",
+    "arabe": "حَمَّامَاتٌ ",
+    "arrays": [
+      {
+        "nom": "~,античные (древние бани)",
+        "anglais": "  ancient baths",
+        "fr": " thermes antiques",
+        "arabe": "حَمَامَاتُ قَدِيمَةُ"
+      },
+      {
+        "nom": "~, общественные",
+        "anglais": " public baths",
+        "fr": "  thermes publics ",
+        "arabe": "حمامات عمومية "
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nom": "~,античные (древние бани)",
+    "anglais": "  ancient baths",
+    "fr": " thermes antiques",
+    "arabe": "حَمَامَاتُ قَدِيمَةُ",
+    "arrays": []
+  },
+  {
+    "id": 42,
+    "nom": "~, общественные",
+    "anglais": " public baths",
+    "fr": "  thermes publics ",
+    "arabe": "حمامات عمومية ",
+    "arrays": []
+  },
+  {
+    "id": 43,
+    "nom": "Баптистерий м",
+    "anglais": " Baptistery",
+    "fr": " Baptistére ",
+    "arabe": "مَسْبَحَ التَّعْمِيدِ / حَوْضَ التَّعْمِيدِ ",
+    "arrays": []
+  },
+  {
+    "id": 44,
+    "nom": "Бар м",
+    "anglais": " Bar",
+    "fr": " Bar ",
+    "arabe": "مَشْرَبٌ ",
+    "arrays": []
+  },
+  {
+    "id": 45,
+    "nom": "Бармен м ",
+    "anglais": " Barman",
+    "fr": " Barman ",
+    "arabe": "نَادِلٌ ",
+    "arrays": []
+  },
+  {
+    "id": 46,
+    "nom": "Бархан (Эрг) м ",
+    "anglais": " Erg",
+    "fr": " Erg ",
+    "arabe": "عِرْقٌ ",
+    "arrays": [
+      {
+        "nom": "~, большой",
+        "anglais": " grand erg",
+        "fr": " grand erg oriental ",
+        "arabe": "عِرْقٌ شَرْقِيٌ "
+      }
+    ]
+  },
+
+  {
+    "id": 48,
+    "nom": "Бассейн м",
+    "anglais": " Swimming pool",
+    "fr": " Piscine ",
+    "arabe": "مَسْبَحٌ ",
+    "arrays": [
+      {
+        "nom": "~,крытый",
+        "anglais": " indoor swimming pool",
+        "fr": "  piscine couverte ",
+        "arabe": "مَسْبَحٌ مُغَطَّى "
+      },
+      {
+        "nom": "~, открытый",
+        "anglais": " outdoor swimming pool",
+        "fr": " piscine ouverte (extérieure) ",
+        "arabe": "مَسْبَحٌ مَكْشُوفَ"
+      }
+    ]
+  },
+
+  {
+    "id": 51,
+    "nom": "Башня ж ",
+    "anglais": " Tower",
+    "fr": " Tour ",
+    "arabe": "بُرْجٌ ",
+    "arrays": []
+  },
+  {
+    "id": 52,
+    "nom": "Бей м",
+    "anglais": " Bey",
+    "fr": " Bey ",
+    "arabe": "بَايٌ ",
+    "arrays": []
+  },
+  {
+    "id": 53,
+    "nom": "Беллмен м ",
+    "anglais": " Bellman ",
+    "fr": " Porteur de bagage / bagagiste",
+    "arabe": "حَمَّالَ الْحَقَائِبِ ",
+    "arrays": []
+  },
+  {
+    "id": 54,
+    "nom": "Берберский прил",
+    "anglais": " Berber",
+    "fr": " Berbère ",
+    "arabe": "بَرْبَرِيٌّ ",
+    "arrays": []
+  },
+  {
+    "id": 55,
+    "nom": "Бизнес м  ",
+    "anglais": " Business",
+    "fr": " Affaires ",
+    "arabe": "اعمال ",
+    "arrays": []
+  },
+  {
+    "id": 56,
+    "nom": "Билет м",
+    "anglais": " Ticket",
+    "fr": " Ticket ",
+    "arabe": "تَذَكُّرَةً ",
+    "arrays": []
+  },
+  {
+    "id": 57,
+    "nom": "Блюдо с ",
+    "anglais": " Dish",
+    "fr": " Plat ",
+    "arabe": "طَبَقٌ ",
+    "arrays": [
+      {
+        "nom": "~, основное ",
+        "anglais": " main course / main dish ",
+        "fr": "  Plat principal  ",
+        "arabe": "طبق رئيسي "
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "nom": "Блюдце с ",
+    "anglais": " Saucer",
+    "fr": " Soucoupe ",
+    "arabe": "صُحَيْنٌ / صَحْنُ الفِنْجَانِ ",
+    "arrays": []
+  },
+  {
+    "id": 59,
+    "nom": "Бокал м ",
+    "anglais": " Glass/Goblet",
+    "fr": " Verre ",
+    "arabe": "كَأْسٌ/ قَدْحُ ",
+    "arrays": []
+  },
+  {
+    "id": 60,
+    "nom": "Ботель м",
+    "anglais": " Botel",
+    "fr": " Botel ",
+    "arabe": "بُوتِيلٌ / قَارِبٌ نُزْلٌ ",
+    "arrays": []
+  },
+  {
+    "id": 61,
+    "nom": "Бронирование с ",
+    "anglais": " Booking",
+    "fr": " Réservation ",
+    "arabe": "حَجْزٌ ",
+    "arrays": [
+      {
+        "nom": "~ заявка на",
+        "anglais": "  booking request ",
+        "fr": "  demande de réservation ",
+        "arabe": "طَلَبٌ الْحَجْز "
+      },
+      {
+        "nom": "~я  отмена ",
+        "anglais": " cancelling a reservation",
+        "fr": " annuler une réservation ",
+        "arabe": "إلْغَاء حَجِز "
+      },
+      {
+        "nom": "~я  отсылка ",
+        "anglais": " booking reference",
+        "fr": " reference de reservation  ",
+        "arabe": "مَرْجِع الْحَجْز  "
+      },
+      {
+        "nom": "~я  процидуры",
+        "anglais": " booking procedures",
+        "fr": " procédure de réservation ",
+        "arabe": "إِجْرَاءَات الْحَجْز "
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "nom": "Бронировать св  ",
+    "anglais": " Book/Reserve",
+    "fr": " Réserver ",
+    "arabe": "حَجَزَ ",
+    "arrays": []
+  },
+  {
+    "id": 63,
+    "nom": "Бронь ж ",
+    "anglais": "  Booking/ Reservation ",
+    "fr": " Réservation ",
+    "arabe": "حَجْزٌ ",
+    "arrays": []
+  },
+  {
+    "id": 64,
+    "nom": "Брошюра ж",
+    "anglais": " Brochure",
+    "fr": " Brochure ",
+    "arabe": "كُتَيِّبٌ إِعْلَانِيٌّ ",
+    "arrays": []
+  },
+  {
+    "id": 65,
+    "nom": "Буклет м",
+    "anglais": " Booklet",
+    "fr": " Dépliant ",
+    "arabe": "مَطْوِيَّةٌ ",
+    "arrays": []
+  },
+  {
+    "id": 66,
+    "nom": "Бунгало с ",
+    "anglais": " Bungalow",
+    "fr": " Bungalow ",
+    "arabe": "مَنْزِلٌ شَاطِئيٌّ ذُو طَابَقٍ وَاحِدٍ ",
+    "arrays": []
+  },
+  {
+    "id": 67,
+    "nom": "Бэк-офис м",
+    "anglais": " Back office",
+    "fr": "  Back office ",
+    "arabe": "مَكْتَبٌ إِدَارِيٌّ لِلْأَعْمَالِ التِجَارِيَّةِ ",
+    "arrays": []
+  },
+  {
+    "id": 68,
+    "nom": "Бюро с  ",
+    "anglais": "Office",
+    "fr": "  Bureau ",
+    "arabe": "مَكْتَبٌ",
+    "arrays": [
+      {
+        "nom": "~  обслуживания",
+        "anglais": "service’s office",
+        "fr": "  bureau de service ",
+        "arabe": "مَكْتَبُ خَدَمَاتٍ"
+      },
+      {
+        "nom": "~, справочное  ",
+        "anglais": "inquiry office",
+        "fr": "  bureau de renseignement  ",
+        "arabe": "مَكْتَبُ إِرْشَادٍ"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "nom": "Бюст м",
+    "anglais": "Bust",
+    "fr": " Buste ",
+    "arabe": "تِمْثَالٌ نِصْفِيٌّ ",
+    "arrays": []
+  },
+  {
+    "id": 70,
+    "nom": "Вандал м",
+    "anglais": "Vandal",
+    "fr": " Vandal ",
+    "arabe": "وِنْدَالٌ/فُنْدَالٌ",
+    "arrays": []
+  }
 ]
