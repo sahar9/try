@@ -338,22 +338,6 @@
     ]
   },
   {
-    "id": 41,
-    "nom": "~,античные (древние бани)",
-    "anglais": "  ancient baths",
-    "fr": " thermes antiques",
-    "arabe": "حَمَامَاتُ قَدِيمَةُ",
-    "arrays": []
-  },
-  {
-    "id": 42,
-    "nom": "~, общественные",
-    "anglais": " public baths",
-    "fr": "  thermes publics ",
-    "arabe": "حمامات عمومية ",
-    "arrays": []
-  },
-  {
     "id": 43,
     "nom": "Баптистерий м",
     "anglais": " Baptistery",
@@ -618,6 +602,138 @@
     "anglais": "Vandal",
     "fr": " Vandal ",
     "arabe": "وِنْدَالٌ/فُنْدَالٌ",
+    "arrays": []
+  },
+  {
+    "id": 71,
+    "nom": "Ванна (Ванная) ж  ",
+    "anglais": "Bath",
+    "fr": " Bain ",
+    "arabe": "حَمّامٌ",
+    "arrays": [
+      {
+        "nom": "~, гидромассажные",
+        "anglais": "jacuzzis",
+        "fr": " jacuzzis ",
+        "arabe": "جاكوزي"
+      },
+      {
+        "nom": "~, грязевая ",
+        "anglais": "mud bath",
+        "fr": " bain de boue ",
+        "arabe": "حَمَّامُ طِينُ"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "nom": "Ваучер м",
+    "anglais": "Voucher",
+    "fr": " Bon ",
+    "arabe": "إيصَالٌ / قَسِيمَةٌ",
+    "arrays": []
+  },
+  {
+    "id": 73,
+    "nom": "Весна ж ",
+    "anglais": "Spring",
+    "fr": " Printemps ",
+    "arabe": "رَبِيعٌ",
+    "arrays": []
+  },
+  {
+    "id": 74,
+    "nom": "Виза ж",
+    "anglais": "Visa",
+    "fr": " Visa ",
+    "arabe": "تَأْشِيرَةٌ",
+    "arrays": []
+  },
+  {
+    "id": 75,
+    "nom": "Византия сущ",
+    "anglais": "Byzantium",
+    "fr": " Byzance ",
+    "arabe": "بَيزَانْطَا",
+    "arrays": []
+  },
+  {
+    "id": 76,
+    "nom": "Вилка ж",
+    "anglais": "Fork",
+    "fr": " Fourchette ",
+    "arabe": "شَوْكَةٌ",
+    "arrays": []
+  },
+  {
+    "id": 77,
+    "nom": "Водолечение с",
+    "anglais": "Hydrotherapy",
+    "fr": " Thermalisme ",
+    "arabe": "عَلاجٌ مَائِيٌّ/عِلَاجٌ بِالمِيَاهِ المَعْدَنيَّةِ",
+    "arrays": []
+  },
+  {
+    "id": 78,
+    "nom": "Водопад м",
+    "anglais": "Waterfall",
+    "fr": " Cascade ",
+    "arabe": "شَلاَّلٌ",
+    "arrays": []
+  },
+  {
+    "id": 79,
+    "nom": "Ворота ж ",
+    "anglais": "Gate",
+    "fr": " Porte de la ville ",
+    "arabe": "بَوَّابَةٌ",
+    "arrays": []
+  },
+  {
+    "id": 80,
+    "nom": "Восток м",
+    "anglais": "East",
+    "fr": " Est ",
+    "arabe": "شَرْقٌ",
+    "arrays": []
+  },
+  {
+    "id": 81,
+    "nom": "Все включено ",
+    "anglais": " All inclusive",
+    "fr": " Tout inclus ",
+    "arabe": "شَامِلُ الخَدَمَاتِ",
+    "arrays": []
+  },
+  {
+    "id": 82,
+    "nom": "Въезд м",
+    "anglais": "Entry",
+    "fr": " Entrée ",
+    "arabe": "دُخُولٌ",
+    "arrays": []
+  },
+  {
+    "id": 83,
+    "nom": "Выезд  м ",
+    "anglais": "Exit",
+    "fr": " Sortie ",
+    "arabe": "خُرُوج",
+    "arrays": [
+      {
+        "nom": "~, поздний",
+        "anglais": "late check out",
+        "fr": "  depart tardif ",
+        "arabe": "مُغَادَرَةٌ مُتَأَخِرَة"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "nom": "Выписываться св",
+    "anglais": "Check out",
+    "fr": " Check out ",
+    "arabe": "غَادَرَ",
     "arrays": []
   }
 ]
