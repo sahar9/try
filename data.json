@@ -735,5 +735,97 @@
     "fr": " Check out ",
     "arabe": "غَادَرَ",
     "arrays": []
+  },
+  {
+    "id": 85,
+    "nom": "Гавань ж",
+    "anglais": "Port",
+    "fr": " Port/ Havre ",
+    "arabe": "مِينَاءٌ",
+    "arrays": []
+  },
+  {
+    "id": 86,
+    "nom": "Галерия ж ",
+    "anglais": "Gallery",
+    "fr": " Gallérie",
+    "arabe": "رِوَاقٌ",
+    "arrays": []
+  },
+  {
+    "id": 87,
+    "nom": "Гастротурист м   ",
+    "anglais": "Gastrotourist",
+    "fr": " Gastrotouriste ",
+    "arabe": "سَائِحُ الْأَغْذِيَة",
+    "arrays": []
+  },
+  {
+    "id": 88,
+    "nom": "Гидротерапия ж (водолечение с) ",
+    "anglais": "Hydrotherapy",
+    "fr": " Hydrothérapie ",
+    "arabe": "عِلَاجٌ مَائِيٌ",
+    "arrays": []
+  },
+  {
+    "id": 89,
+    "nom": "Гид м",
+    "anglais": "Guide",
+    "fr": " Guide ",
+    "arabe": "دَليل",
+    "arrays": [
+      {
+        "nom": "~, местный",
+        "anglais": "local guide",
+        "fr": " guide local ",
+        "arabe": "دَلِيلٌ سِيَاحِيٌّ مَحَلِيٌّ"
+      },
+      {
+        "nom": "~, национальный",
+        "anglais": "national guide",
+        "fr": " guide national ",
+        "arabe": "دَلِيلٌ سِيَاحِيٌّ وَطَنِيٌّ"
+      },
+      {
+        "nom": "~, отельный",
+        "anglais": "hotel guide",
+        "fr": " guide hotelier ",
+        "arabe": "دَلِيلٌ فُنْدُقِيٌّ"
+      },
+      {
+        "nom": "~, профессиональный",
+        "anglais": "professional guide",
+        "fr": " guide professionnel ",
+        "arabe": "دَلِيلٌ مُحْتَرِفٌ"
+      },
+      {
+        "nom": "~, туристический ",
+        "anglais": "touristic guide",
+        "fr": " guide touristique ",
+        "arabe": "دَلِيلٌ سِيَاحِيٌّ"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "nom": "Глина ж",
+    "anglais": "Clay",
+    "fr": "Argile",
+    "arabe": "طِينٌ",
+    "arrays": [{
+      "nom": "~ой обёртывание",
+      "anglais": "Clay wrap",
+      "fr": " Enveloppement d’argile ",
+      "arabe": "تَغْلِيفٌ بِالطِّين"
+    }]
+  },
+  {
+    "id": 91,
+    "nom": "Гольф м",
+    "anglais": "Golf",
+    "fr": " Golf ",
+    "arabe": "غُولْفٌ",
+    "arrays": []
   }
 ]
