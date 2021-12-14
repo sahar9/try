@@ -813,12 +813,14 @@
     "anglais": "Clay",
     "fr": "Argile",
     "arabe": "طِينٌ",
-    "arrays": [{
-      "nom": "~ой обёртывание",
-      "anglais": "Clay wrap",
-      "fr": " Enveloppement d’argile ",
-      "arabe": "تَغْلِيفٌ بِالطِّين"
-    }]
+    "arrays": [
+      {
+        "nom": "~ой обёртывание",
+        "anglais": "Clay wrap",
+        "fr": " Enveloppement d’argile ",
+        "arabe": "تَغْلِيفٌ بِالطِّين"
+      }
+    ]
   },
   {
     "id": 91,
@@ -826,6 +828,225 @@
     "anglais": "Golf",
     "fr": " Golf ",
     "arabe": "غُولْفٌ",
+    "arrays": [
+      {
+        "nom": "~,  туризм",
+        "anglais": "golf tourism",
+        "fr": " tourisme golfique ",
+        "arabe": "سِيَاحَةُ الغُولْفِ"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "nom": "Город м ",
+    "anglais": "Town",
+    "fr": " Ville ",
+    "arabe": "مَدِينَةٌ",
+    "arrays": [
+      {
+        "nom": "~, прибрежный ",
+        "anglais": "coastal town",
+        "fr": " ville côtière ",
+        "arabe": "مَدِينَةٌ سَاحِلِيَّةٌ"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "nom": "Гостеприимство с",
+    "anglais": "Hospitality",
+    "fr": " Hospitalité ",
+    "arabe": "فَنْدَقَةٌ",
+    "arrays": []
+  },
+  {
+    "id": 94,
+    "nom": "Гостиница ж",
+    "anglais": "Hotel",
+    "fr": " Hôtel ",
+    "arabe": "فُنْدُقٌ",
+    "arrays": [
+      {
+        "nom": "~, классифицированная",
+        "anglais": "classified hotel",
+        "fr": " hôtel classé ",
+        "arabe": "فُنْدُقٌ مُصَنَّفٌ"
+      },
+      {
+        "nom": "~, неклассифицированная",
+        "anglais": "unclassified hotel",
+        "fr": " hôtel non classé ",
+        "arabe": "فُنْدُقٌ غَيْرُ مُصَنَّفٍ"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "nom": "Гость ж",
+    "anglais": "Guest",
+    "fr": " Invité ",
+    "arabe": "ضَيْفٌ",
+    "arrays": []
+  },
+  {
+    "id": 96,
+    "nom": "Грязно",
+    "anglais": "Dirty",
+    "fr": " Sale ",
+    "arabe": "مُتَّسِخٌ",
+    "arrays": []
+  },
+  {
+    "id": 97,
+    "nom": "Дайвинг м (Подводное плавание)",
+    "anglais": "Diving",
+    "fr": " Plongée sous-marine ",
+    "arabe": "غَوْصٌ",
+    "arrays": []
+  },
+  {
+    "id": 98,
+    "nom": "Двор м",
+    "anglais": "Courtyard",
+    "fr": " Cour ",
+    "arabe": "بَهْوٌ",
+    "arrays": []
+  },
+  {
+    "id": 99,
+    "nom": "Дворец м",
+    "anglais": "Palace",
+    "fr": " Palais ",
+    "arabe": "قَصْرٌ",
+    "arrays": []
+  },
+  {
+    "id": 100,
+    "nom": "Дворецкий прил",
+    "anglais": "Butler",
+    "fr": " Maitre d’hôtel ",
+    "arabe": "رَئِيسُ الخَدَمِ",
+    "arrays": []
+  },
+  {
+    "id": 101,
+    "nom": "Дей м ",
+    "anglais": "Dey",
+    "fr": " Dey ",
+    "arabe": "دَايٌ",
+    "arrays": []
+  },
+  {
+    "id": 102,
+    "nom": "Деревня ж ",
+    "anglais": "Village",
+    "fr": " Village ",
+    "arabe": "قَرْيَةٌ",
+    "arrays": [
+      {
+        "nom": "~, берберская",
+        "anglais": "berber village",
+        "fr": " village berbère ",
+        "arabe": "قَرْيَةٌ بَرْبَرِيَّةٌ"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "nom": "Десерт м",
+    "anglais": "Dessert",
+    "fr": " Dessert ",
+    "arabe": "حلوى",
+    "arrays": []
+  },
+  {
+    "id": 104,
+    "nom": "Деятельность  ж   ",
+    "anglais": "Activity",
+    "fr": " Affaire ",
+    "arabe": "عَمَلٌ / نَشَاطٌ",
+    "arrays": [
+      {
+        "nom": "~, туроператорская",
+        "anglais": "tour operator activity",
+        "fr": " activité de tour opérateur ",
+        "arabe": "نَشَاطُ مُتَعَهِّدِ الرَحَلَاتِ"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "nom": "Династия ж",
+    "anglais": "Dynasty",
+    "fr": " Dynastie ",
+    "arabe": "سُلَاَلَةٌ حَاكِمَةٌ",
+    "arrays": []
+  },
+  {
+    "id": 106,
+    "nom": "Дольмен м",
+    "anglais": "Dolmen",
+    "fr": " Dolmen ",
+    "arabe": "دولمانٌ / مَقْبَرَةٌ جُلْمُودِيَّةٌ",
+    "arrays": []
+  },
+  {
+    "id": 107,
+    "nom": "Дом м ",
+    "anglais": "House",
+    "fr": " Maison ",
+    "arabe": "دَارٌ / مَنْزِلٌ",
+    "arrays": [
+      {
+        "nom": "~, гостевой",
+        "anglais": "guest house",
+        "fr": " maison d’hôtes ",
+        "arabe": "مَنْزِلٌ ضِيَافَة/ دَارُ ضِيَافَة"
+      },
+      {
+        "nom": "~, деревенский",
+        "anglais": "rural guest house",
+        "fr": " gite rural ",
+        "arabe": "دَارٌضِيَافَة رِيفِيَّةِ"
+      },
+      {
+        "nom": "~ отдыха",
+        "anglais": "rest house",
+        "fr": " maison de repos ",
+        "arabe": "دَارُإسْتِرَاحة"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "nom": "Достопримечательность ж",
+    "anglais": "Sight",
+    "fr": " Curiosité/ Vue ",
+    "arabe": "مَعْلَمٌ / أَثَرٌ",
+    "arrays": [
+      {
+        "nom": "~ города",
+        "anglais": "Sight of city",
+        "fr": " Curiosité de la ville ",
+        "arabe": "مَعْلَمُ المَدِينَةِ"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "nom": "Доход м",
+    "anglais": "Income/Revenue",
+    "fr": " Revenu ",
+    "arabe": "إيرَادٌ",
+    "arrays": []
+  },
+  {
+    "id": 110,
+    "nom": "Древность ж",
+    "anglais": "Antiquity",
+    "fr": " Antiquité ",
+    "arabe": "عصور قَدِيمَةُ",
     "arrays": []
   }
 ]
